@@ -1,2 +1,2 @@
-# -30-136--2025
+# ИТЗ
 Dark fantasy game
